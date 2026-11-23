@@ -1,6 +1,6 @@
-# Problem
-SDG Alignment: SDG 3 (primary), SDG 10 (secondary)
 # AI Allergen Label Scanner
+
+SDG Alignment: SDG 3 (primary), SDG 10 (secondary)
 
 ## Problem Statement
 
