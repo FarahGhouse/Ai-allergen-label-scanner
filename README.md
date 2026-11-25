@@ -2,15 +2,15 @@
 
 SDG Alignment: SDG 3 (primary), SDG 10 (secondary)
 
-## Problem Statement
+# Problem 
 
-### Who Is Affected?
+Who Is Affected:
 
 Harold is a fictional 64-year-old San Jose resident with age-related vision changes. He is buying a cake at the grocery store for his family as a gift. His grandchild and daughter are allergic to peanuts.
 
 Harold tries to read the ingredients list on the label but cannot because the text is too small and crowded. He does not have much time to shop and cannot find a store employee to help.
 
-### What Breaks Down Today?
+What Breaks Down Today?
 
 The allergen information Harold needs is printed on the label, but he cannot read it at the moment. Without this information, he must either guess and risk a serious allergic reaction for someone he loves or leave the store without the gift.
 
@@ -22,7 +22,7 @@ Barcode-scanning apps may also be unreliable because their databases may not inc
 
 As a result, people who are most exposed to the risk—such as family members with food allergies—may depend on a shopper who cannot read the label.
 
-### Why Not Use Something Simpler?
+Why Not Use Something Simpler?
 
 A camera zoom feature or magnifier can help with reading but does not interpret allergen terms.
 
@@ -30,7 +30,7 @@ Barcode-scanning apps depend on databases that may be outdated or may not includ
 
 Our prototype reads the label directly from the product in the person’s hand. It also answers questions about the label in plain language.
 
-### Scope and Limitations
+ Scope and Limitations:
 
 This is a prototype that uses synthetic or non-identifying label photos. It reports what is written on the label, and users can ask questions such as:
 
