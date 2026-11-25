@@ -4,7 +4,7 @@ SDG Alignment: SDG 3 (primary), SDG 10 (secondary)
 
 # Problem 
 
-**who Is Affected:**
+**Who Is Affected:**
 
 Harold is a fictional 64-year-old San Jose resident with age-related vision changes. He is buying a cake at the grocery store for his family as a gift. His grandchild and daughter are allergic to peanuts.
 
