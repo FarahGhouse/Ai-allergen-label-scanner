@@ -5,14 +5,12 @@ SDG Alignment: SDG 3 (primary), SDG 10 (secondary)
 # Problem 
 
 **Who Is Affected:**
-Harold is a fictional 64-year-old San Jose resident with age-related vision changes. He is buying a cake at the grocery store for his family as a gift. His grandchild and daughter are allergic to peanuts.
-
-Harold tries to read the ingredients list on the label but cannot because the text is too small and crowded. He does not have much time to shop and cannot find a store employee to help.
+Harold is a fictional 64-year-old San Jose resident with age-related vision changes. He is buying ingredients to help bake a cake for his granddaughter, who happens to be allergic to soy. Harold tries to read the ingredients list on the label but cannot because the text is too small and crowded. He does not have much time to shop and cannot find a store employee to help.
 
 **What Breaks Down Today?**
-The allergen information Harold needs is printed on the label, but he cannot read it at the moment. Without this information, he must either guess and risk a serious allergic reaction for someone he loves or leave the store without the gift.
+The allergen information Harold needs is printed on the label, but he cannot read it at the moment. Without this information, he must either guess and risk a serious allergic reaction from someone he loves or leave the store without the necessary ingredients.
 
-Labels may also use technical or indirect wording, such as “may contain traces of peanuts,” or ingredient names that do not directly say “peanut.” This makes allergens easy to miss, even for people with good eyesight.
+Labels may also use technical or indirect wording, such as “may contain traces of soy,” or ingredient names that do not directly say “soy”. This makes allergens easy to miss, even for people with good eyesight.
 
 Existing options, such as magnifiers or phone zoom features, may not be enough. They help users enlarge the text but still require them to find and interpret allergen terms on their own.
 
