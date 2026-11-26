@@ -5,7 +5,7 @@ SDG Alignment: SDG 3 (primary), SDG 10 (secondary)
 # Problem 
 
 **Who Is Affected:**
-Harold is a fictional 64-year-old San Jose resident with age-related vision changes. He is buying ingredients to help bake a cake for his granddaughter, who happens to be allergic to soy. Harold tries to read the ingredients list on the label but cannot because the text is too small and crowded. He does not have much time to shop and cannot find a store employee to help.
+Harold is a fictional 64-year-old San Jose resident with age-related vision changes. He is buying ingredients to help bake a cake for his granddaughter, who happens to be allergic to soy. Harold tries to read the ingredients list on the label of icing, but isn't able to because the text is too small and crowded. He does not have much time to shop and cannot find a store employee to help.
 
 **What Breaks Down Today?**
 The allergen information Harold needs is printed on the label, but he cannot read it at the moment. Without this information, he must either guess and risk a serious allergic reaction from someone he loves or leave the store without the necessary ingredients.
