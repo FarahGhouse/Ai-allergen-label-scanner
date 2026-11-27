@@ -26,9 +26,7 @@ Barcode-scanning apps depend on databases that may be outdated or may not includ
 Our prototype reads the label directly from the product in the person’s hand. It also answers questions about the label in plain language.
 
  **Scope and Limitations:**
-This is a prototype that uses synthetic or non-identifying label photos. It reports what is written on the label, and users can ask questions such as:
-
-> Is milk a listed ingredient?
+This is a prototype that uses synthetic or non-identifying label photos. It reports what is written on the label, and users  enter the ingredient they are trying to avoid and our system will let them know if it found that ingredient in the label. 
 
 The prototype will never declare that a product is completely “safe.” Users should always verify allergen information with the product packaging or a qualified professional.
 
